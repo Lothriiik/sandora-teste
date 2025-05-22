@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte de um **teste técnico para a empresa Sandora**. A aplicação foca em duas telas principais: **Login** e **Cadastro**, implementadas com design moderno, responsividade e boas práticas de desenvolvimento.
 
-## 🔗 Acesso rápido
+## 🔗 Link vercel
 
 - 🔐 [Tela de Login](https://sandora-teste.vercel.app/login)
 - 📝 [Tela de Cadastro](https://sandora-teste.vercel.app/cadastro)
